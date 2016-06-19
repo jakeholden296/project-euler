@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>uk.co.jakeholden</groupId>
-  <artifactId>project-euler</artifactId>
+  <artifactId>utilities</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>project-euler</name>
+  <name>utilities</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -21,11 +21,6 @@
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>uk.co.jakeholden</groupId>
-      <artifactId>utilities</artifactId>
-      <version>1.0.0</version>
     </dependency>
   </dependencies>
   
